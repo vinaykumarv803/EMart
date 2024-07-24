@@ -1,0 +1,15 @@
+
+
+@media (min-width: 320px) and (max-width: 480px) 
+{
+    #buy{
+        margin-top: 0px;
+        font-size: 10px;
+        font-weight: 900;
+        
+        position: absolute;
+        z-index: 1000;
+        top: 150px;
+    
+    }
+}

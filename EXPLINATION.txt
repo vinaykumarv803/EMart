@@ -1,0 +1,27 @@
+> all components are called from App.js
+
+1st.component --HeaderCom 
+  external css file used => Header.css
+
+2nd.component --Banners
+  this component imported from bootstrap
+
+3d.component --BackGround
+      css module is used => Background.module.css
+
+4th.component --DisplayItems
+   external css file is used => DisplayItems.css
+
+5th.component --Cards
+    this component is imported from bootstrap
+    and css Module applied on it
+
+6th. component --Cardslider
+     this component imported from multi-carousel librery and applied 
+     bootstrap cards on it... in this css Module is used
+
+7th. component --TopDeals 
+     => TopDeals.module.css is used
+
+8th. component -- Footer..
+     => Footer Module.css is used
