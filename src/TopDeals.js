@@ -19,10 +19,11 @@ export default function Test() {
     <div className={style.ContainerDiv}>
       <div id={style.ContainerDiv2}>
         <div id={style.Container}>
+
           <div id={style.innerDiv}>
             <h2>Top deals of the week</h2>
           </div>
-
+          
           <div id={style.innerDiv2}>
 
             <a href={'/'} alt={''}> <img src={img1} alt='' id={style.img}></img></a>
@@ -37,11 +38,6 @@ export default function Test() {
             <a href={'/'} alt={''}><img src={img9} alt='' id={style.img}></img></a>
             <a href={'/'} alt={''}><img src={img10} alt='' id={style.img}></img></a>
             <a href={'/'} alt={''}><img src={img11} alt='' id={style.img}></img></a>
-
-
-
-
-
 
 
           </div>

@@ -166,3 +166,100 @@
         border-radius: 10px;
     }
 }
+
+
+
+@media only screen and (min-width: 360px) and (max-width: 767px) 
+{
+
+    #container {
+        margin-top: 0px;
+        width: 100%;
+        height: 800px;
+        border-radius: 50px;
+        box-shadow: 5px 5px 30px #695151;
+        background-image: url("./pics/cards/bg1.jpg");
+        background-size: cover;
+        /* border: 1px solid black */
+    }
+    
+    #BackDiv {
+        position: absolute;
+        top: 1100px;
+        height: 900px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        background-color: rgba(255, 255, 255, 0.767);
+       
+        border-radius: 50px;
+        box-shadow: 5px 5px 20px #695151;
+       
+    
+    }
+    
+    .topmodels {
+        height: 60px;
+        width: 100%;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-align: center;
+        color: black;
+        background-color: #adb0b4;
+        box-shadow: 5px 5px 20px #695151;
+        border-top-left-radius: 50px;
+        border-top-right-radius: 50px;
+    }
+    
+    .alignItems {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+       
+    }
+    
+    
+    #box {
+        margin-top: 35px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        display: inline-block;
+    
+    }
+    .cardProduct{
+        width: 170px;
+        height: 300px;
+    
+    }
+    .cardTitle{
+        font-size: 15px;
+        font-weight: 900;
+    }
+    .cardText{
+        font-size: 13px;
+        
+    }
+    
+    #box:hover {
+        transition: background-color 0.60s ease;
+        box-shadow: 5px 5px 20px #8dbdc9;
+    }
+    
+    .imageSize {
+        height: 400px;
+    }
+    
+    #cardSlider {
+        width: 70%;
+        height: 500px;
+    
+    }
+    
+    #mainDiv {
+     
+        width: auto;
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+        border-radius: 10px;
+    }
+
+}

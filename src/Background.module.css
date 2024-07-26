@@ -1,7 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+
 #Background{
     height: 1750px;
     width: 100%;
     background-color:#e2e7e6;
     border-bottom-left-radius: 70px;
     border-bottom-right-radius: 70px;
+}
+
+@media only screen and (min-width: 360px) and (max-width: 767px) 
+{
+    #Background{
+        height: 1750px;
+        width: 100%;
+        background-color:#e2e7e6;
+        border-bottom-left-radius: 70px;
+        border-bottom-right-radius: 70px;
+    }
+
 }

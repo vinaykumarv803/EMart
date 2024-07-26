@@ -26,7 +26,7 @@ export default function Footer() {
                     </div>
 
                     <div id={style.panel2items} className={style.secItmes}>
-                        <ul >
+                        <ul className={style.getUs} >
                             <h5 id={style.title}>Connect with Us</h5>
                             <a href={'/'} id={style.d1}> <li>Facebook</li></a>
                             <a href={'/'} id={style.d1}> <li>Twitter</li></a>
@@ -46,7 +46,7 @@ export default function Footer() {
                     </div>
 
                     <div id={style.panel2items} className={style.secItmes}>
-                        <ul>
+                        <ul >
 
                             <h5 id={style.title}>Let Us Help You</h5>
                             <a href={'/'} id={style.d1}> <li>COVID-19 </li></a>
@@ -68,11 +68,15 @@ export default function Footer() {
                         <FontAwesomeIcon icon={faFacebook} id={style.icon} />
                         <FontAwesomeIcon icon={faXTwitter} id={style.icon} />
                     </div>
+
+                    <div className={style.horizontal}></div>
                 </center>
 
                 <center>
+
+
                     <div>
-                        <p style={{ fontFamily: 'trebuchet',color:'rgb(179, 235, 220)'}}>Powered by Vinay Kumar with -  <FontAwesomeIcon icon={faReact} /></p>
+                        <h1 id={style.vinay}>Vinay Kumar <FontAwesomeIcon icon={faReact} /></h1> 
                     </div>
                 </center>
 
