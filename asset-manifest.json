@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/EMart/static/css/main.389149df.css",
-    "main.js": "/EMart/static/js/main.fef3a4af.js",
+    "main.css": "/EMart/static/css/main.fac4fba0.css",
+    "main.js": "/EMart/static/js/main.daa29c39.js",
     "static/js/592.48b7cb8d.chunk.js": "/EMart/static/js/592.48b7cb8d.chunk.js",
     "static/media/image22.jpg": "/EMart/static/media/image22.46a314db808337b2e096.jpg",
     "static/media/image11.jpg": "/EMart/static/media/image11.8e1ea3a28eb2a936c056.jpg",
@@ -41,12 +41,12 @@
     "static/media/revicons.ttf": "/EMart/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/EMart/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/EMart/index.html",
-    "main.389149df.css.map": "/EMart/static/css/main.389149df.css.map",
-    "main.fef3a4af.js.map": "/EMart/static/js/main.fef3a4af.js.map",
+    "main.fac4fba0.css.map": "/EMart/static/css/main.fac4fba0.css.map",
+    "main.daa29c39.js.map": "/EMart/static/js/main.daa29c39.js.map",
     "592.48b7cb8d.chunk.js.map": "/EMart/static/js/592.48b7cb8d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.389149df.css",
-    "static/js/main.fef3a4af.js"
+    "static/css/main.fac4fba0.css",
+    "static/js/main.daa29c39.js"
   ]
 }
